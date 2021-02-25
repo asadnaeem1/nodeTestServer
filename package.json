@@ -1,0 +1,23 @@
+{
+  "name": "nodeTestServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadnaeem1/nodeTestServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asadnaeem1/nodeTestServer/issues"
+  },
+  "homepage": "https://github.com/asadnaeem1/nodeTestServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
